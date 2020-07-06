@@ -21,4 +21,4 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 
 ```
 git clone https://github.com/Leontking/saycheese
-aND bye
+aND by
