@@ -1,4 +1,4 @@
-# SayCheese v1.2
+    SayCheese v1.2
 ## Author: https://github.com/thelinuxchoice/saycheese
 ## Twitter: https://twitter.com/linux_choice
 
